@@ -63,7 +63,7 @@ beds.register_bed("colorful_beds:pink_bed", {
 		"beds_bed_under.png",
 		"pink_beds_bed_side_bottom_r.png",
 		"pink_beds_bed_side_bottom_r.png^[transformfx",
-		"beds_transparent.png",
+		"blank.png",
 		"pink_beds_bed_side_bottom.png"
 	},
 	top = {
@@ -72,7 +72,7 @@ beds.register_bed("colorful_beds:pink_bed", {
 		"pink_beds_bed_side_top_r.png",
 		"pink_beds_bed_side_top_r.png^[transformfx",
 		"beds_bed_side_top.png",
-		"beds_transparent.png",
+		"blank.png",
 	}
 	},
 	nodebox = {
